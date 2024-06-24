@@ -1,5 +1,18 @@
 # @hyperlane-xyz/infra
 
+## 3.17.0
+
+### Minor Changes
+
+- 6398aab72: Upgrade registry to 2.1.1
+
+### Patch Changes
+
+- Updated dependencies [6398aab72]
+  - @hyperlane-xyz/helloworld@3.17.0
+  - @hyperlane-xyz/sdk@3.17.0
+  - @hyperlane-xyz/utils@3.17.0
+
 ## 3.16.0
 
 ### Minor Changes
